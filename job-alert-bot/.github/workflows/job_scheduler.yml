@@ -1,3 +1,5 @@
+# Triggering first run
+
 name: Job Alert Bot
 
 on:
